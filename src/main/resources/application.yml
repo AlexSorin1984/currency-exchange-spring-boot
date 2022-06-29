@@ -1,0 +1,8 @@
+server:
+  port: 8100
+spring:
+  application:
+    name: 'currency-calculation-service'
+  cloud:
+    config:
+      enabled: 'false'
